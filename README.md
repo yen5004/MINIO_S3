@@ -26,7 +26,9 @@ wget https://dl.min.io/server/minio/release/linux-amd64/minio
 chmod +x minio
 ```
 ### Run MinIO (defaults to port 9000)
+```bash
 ./minio server /data
+```
 
 #### Example Install
 ```bash

@@ -23,3 +23,9 @@ except NoCredentialsError:
 
 # Sample output:
 # Buckets: [{'Name': 'testbucket1', 'CreationDate': datetime.datetime(2024, 12, 18, 20, 30, 35, 879000, tzinfo=tzutc())}]
+
+# Run:
+# python3 S3_python.py
+
+# To install boto3
+# python3 -m pip show boto3

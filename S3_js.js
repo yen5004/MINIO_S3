@@ -24,3 +24,5 @@ minioClient.listBuckets(function (err, buckets) {
  });
 });
 
+## ensure this module is installed:
+## npm install -g minio
